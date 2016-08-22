@@ -1,4 +1,4 @@
-# new-javascript
+# test-new-javascript
 Steps:
 The "/node_modules" directory was not uploaded in the repo, we need to install the required packages (dependencies)
 npm install
